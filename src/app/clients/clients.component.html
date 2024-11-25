@@ -1,0 +1,24 @@
+<section>
+  <button (click)="goBack()">Go Back</button>
+  <h2>{{ client?.name | uppercase }} Details</h2>
+  <!-- <div><span>id: </span> {{ client.id }}</div>
+  <div><span>name: </span> {{ client.name }}</div> -->
+  <div><span>Id: </span> {{ client?.id }}</div>
+  <div>
+    <label for="name">Client name: </label>
+    <input
+      id="name"
+      [(ngModel)]="clientName"
+      placeholder="name"
+      (ngModelChange)="updateClient()"
+    />
+  </div>
+  <section>
+    <h3>List of Addresses:</h3>
+    <app-address-form (address)="AddAddress($event)"></app-address-form>
+    <app-addresses
+      *ngFor="let address of client?.addresses"
+      [address]="address"
+    ></app-addresses>
+  </section>
+</section>

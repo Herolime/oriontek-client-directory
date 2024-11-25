@@ -1,0 +1,316 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zipCode": "12345",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "456 Elm St",
+          "city": "Smallville",
+          "state": "NY",
+          "zipCode": "67890",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "789 Oak Ave",
+          "city": "Big city",
+          "state": "TX",
+          "zipCode": "13579",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "101 Maple Ln",
+          "city": "Quietville",
+          "state": "WA",
+          "zipCode": "24680",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "222 Pine Rd",
+          "city": "Sunnyside",
+          "state": "FL",
+          "zipCode": "35791",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sarah Lee",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "333 Cedar Dr",
+          "city": "Hillcrest",
+          "state": "CO",
+          "zipCode": "46802",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Thomas Kim",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "444 Willow Crk",
+          "city": "Riverton",
+          "state": "OR",
+          "zipCode": "57913",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Olivia Miller",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "555 Birch Ln",
+          "city": "Mountainview",
+          "state": "UT",
+          "zipCode": "68024",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Benjamin Davis",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "666 Aspen Way",
+          "city": "Snowpeak",
+          "state": "MT",
+          "zipCode": "79135",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Sophia Martinez",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "777 Redwood Ave",
+          "city": "Coastline",
+          "state": "CA",
+          "zipCode": "80246",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "William Taylor",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "888 Palm St",
+          "city": "Miami Beach",
+          "state": "FL",
+          "zipCode": "91357",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Elizabeth Anderson",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "999 Olive Dr",
+          "city": "St. Louis",
+          "state": "MO",
+          "zipCode": "02468",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "James Harris",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "111 Maple St",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zipCode": "M5V 2L6",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Jennifer Garcia",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "222 Pine Ave",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "zipCode": "V6B 2M7",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Matthew Wilson",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "333 Oak St",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zipCode": "H2Y 1A2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Ashley Rodriguez",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "444 Elm St",
+          "city": "London",
+          "state": "England",
+          "zipCode": "WC2H 7LP",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Christopher Perez",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "555 Oak St",
+          "city": "Paris",
+          "state": "Île-de-France",
+          "zipCode": "75001",
+          "country": "France"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Stephanie Phillips",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "666 Elm St",
+          "city": "Berlin",
+          "state": "Berlin",
+          "zipCode": "10117",
+          "country": "Germany"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Joshua Lewis",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "777 Oak St",
+          "city": "Rome",
+          "state": "Lazio",
+          "zipCode": "00186",
+          "country": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Nicole Hall",
+      "lastUpdatedAt": "2024-11-25T00:25:00.822Z",
+      "addresses": [
+        {
+          "street": "888 Elm St",
+          "city": "Tokyo",
+          "state": "Tokyo",
+          "zipCode": "100-0001",
+          "country": "Japan"
+        }
+      ]
+    },
+    {
+      "id": "2f53",
+      "name": "Kendrick Lamar",
+      "lastUpdatedAt": "2024-11-25T01:51:24.087Z",
+      "addresses": []
+    },
+    {
+      "id": "a809",
+      "name": "Peter Cayman",
+      "addresses": [
+        {
+          "street": "Calle T, Edif. 1, Manz. X (diez), Apartamento 402 Res. Jose Contreras",
+          "city": "Distrito Nacional",
+          "state": "Santo Domingo",
+          "zipCode": "10117",
+          "country": "Dominican Republic"
+        }
+      ],
+      "lastUpdatedAt": "Mon, 25 Nov 2024 01:41:24 GMT"
+    },
+    {
+      "id": "4844",
+      "name": "Anuel AA",
+      "addresses": [],
+      "lastUpdatedAt": "Mon, 25 Nov 2024 01:42:17 GMT"
+    },
+    {
+      "id": "f0ee",
+      "name": "Foo Bar",
+      "addresses": [],
+      "lastUpdatedAt": "2024-11-25T01:43:52.664Z"
+    }
+  ]
+}

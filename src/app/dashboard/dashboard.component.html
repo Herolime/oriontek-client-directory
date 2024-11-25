@@ -1,0 +1,6 @@
+<h2 class="text-2xl">Recently updated Clients</h2>
+<div class="clients-menu">
+  <a *ngFor="let client of clients" [routerLink]="['/clients', client.id]">
+    {{ client.name }}
+  </a>
+</div>

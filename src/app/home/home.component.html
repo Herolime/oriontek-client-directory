@@ -1,0 +1,9 @@
+<nav>
+  <button (click)="setShowDashboard()">Dashboard</button>
+  <button (click)="setShowList()">Clients</button>
+</nav>
+<app-dashboard
+  *ngIf="showDashboard"
+  [clients]="dashboardClientList"
+></app-dashboard>
+<app-client-list *ngIf="showList" [clients]="clientList"></app-client-list>

@@ -1,0 +1,14 @@
+<section>
+  <h2 class="text-2xl">Client List</h2>
+  <app-add-client-dialog
+    (clientName)="addClient($event)"
+  ></app-add-client-dialog>
+  <ul class="clients">
+    <li *ngFor="let client of clients">
+      <button type="button" [routerLink]="['/clients', client.id]">
+        <span class="badge">{{ client.id }}. </span>
+        <span class="name">{{ client.name }}</span>
+      </button>
+    </li>
+  </ul>
+</section>
